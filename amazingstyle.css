@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(230, 189, 173);
+  text-align: justify;
+  text-decoration: double;
+}
+
+h1 {
+  color: rgb(243, 239, 243);
+  margin-left: 20px;
+}
